@@ -1,0 +1,17 @@
+{
+        "cSpell.ignoreWords": [
+                "firstname",
+                "lastname",
+                "resolver",
+                "todos",
+                "typegoose"
+        ],
+        "files.exclude": {
+                "**/.git": true,
+                "**/.svn": true,
+                "**/.hg": true,
+                "**/CVS": true,
+                "**/.DS_Store": true,
+                "**/node_modules": true
+        }
+}
